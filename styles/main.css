@@ -105,7 +105,7 @@ header{
     opacity: 0.3;
     z-index: -1;
     background-image: url(../img/background1.jpg);
-
+    
 }
 
 
@@ -237,6 +237,7 @@ footer{
     height: 120px;
     background-color: black;
     margin-top: 150px;
+    display: none;
 }
 
 
